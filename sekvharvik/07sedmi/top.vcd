@@ -1,0 +1,70 @@
+$date
+  Tue May 14 23:02:37 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module top_tb $end
+$var reg 8 ! sig1[7:0] $end
+$var reg 8 " sig2[7:0] $end
+$var reg 8 # sig3[7:0] $end
+$var reg 8 $ sig4[7:0] $end
+$var reg 2 % sel[1:0] $end
+$var reg 8 & output1[7:0] $end
+$scope module i_mux1 $end
+$var reg 8 ' sig1[7:0] $end
+$var reg 8 ( sig2[7:0] $end
+$var reg 8 ) sig3[7:0] $end
+$var reg 8 * sig4[7:0] $end
+$var reg 2 + sel[1:0] $end
+$var reg 8 , output1[7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b10101010 !
+b10111011 "
+b11001100 #
+b11011101 $
+b00 %
+b10101010 &
+b10101010 '
+b10111011 (
+b11001100 )
+b11011101 *
+b00 +
+b10101010 ,
+#10000000
+b01 %
+b10111011 &
+b01 +
+b10111011 ,
+#20000000
+b10 %
+b11001100 &
+b10 +
+b11001100 ,
+#30000000
+b11 %
+b11011101 &
+b11 +
+b11011101 ,
+#40000000
+b00 %
+b10101010 &
+b00 +
+b10101010 ,
+#50000000
+bUU %
+bXXXXXXXX &
+bUU +
+bXXXXXXXX ,

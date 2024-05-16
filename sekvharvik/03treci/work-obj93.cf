@@ -1,0 +1,4 @@
+v 4
+file . "treci.vhd" "79f814289c740ae6e0afd1bb6f5673ef8c15f5f0" "20240514113459.058":
+  entity treci at 1( 0) + 0 on 13;
+  architecture sim of treci at 7( 98) + 0 on 14;

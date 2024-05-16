@@ -1,0 +1,4 @@
+v 4
+file . "cetvrti.vhdl" "9fb46d0240db00112cd319780a3f4053458dff9f" "20240514115820.872":
+  entity cetvrti at 1( 0) + 0 on 11;
+  architecture sim of cetvrti at 7( 100) + 0 on 12;

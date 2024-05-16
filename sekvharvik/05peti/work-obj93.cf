@@ -1,0 +1,4 @@
+v 4
+file . "peti.vhdl" "3745579fb5cf6f7e9caf6da54d4225ee0b4116cd" "20240514155105.589":
+  entity peti at 1( 0) + 0 on 13;
+  architecture sim of peti at 7( 97) + 0 on 14;

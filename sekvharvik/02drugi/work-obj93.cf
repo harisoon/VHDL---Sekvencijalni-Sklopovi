@@ -1,0 +1,4 @@
+v 4
+file . "vektor.vhd" "b8a67dc93143fc01905187bff74396ce009ba53a" "20240512134339.603":
+  entity vektor at 1( 0) + 0 on 13;
+  architecture sim of vektor at 7( 74) + 0 on 14;
